@@ -1,0 +1,6 @@
+{
+  "name": "Bismillah State Agency",
+  "description": "Premier real-estate agency platform for buying, selling, and renting properties in Quetta, Balochistan, Pakistan.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
